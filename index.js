@@ -13,4 +13,4 @@ function startTimerConcentrate() {
 }
 
 
-concentration.addEventListener("click", startTimerConcentrate());
+concentration.addEventListener("click", startTimerConcentrate);
