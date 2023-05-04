@@ -1,0 +1,16 @@
+{
+    "name": "pomodoro",
+    "version": "1.0",
+    "description": "Description de l'extension",
+    "manifest_version": 3,
+    "action": {
+    
+      "default_popup": "Extension.html"
+    },
+    "permissions": [
+      "tabs",
+      "activeTab"
+    ]
+    
+  }
+  

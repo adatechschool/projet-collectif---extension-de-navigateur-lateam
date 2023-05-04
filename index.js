@@ -5,11 +5,11 @@ let concentration = document.getElementById("Concentration")
 
 
 function timer() {
-    alert("Debut de la pause!")
+    alert("Vous venez de commencer votre pause. Enjoy !")
 }
 
 function startTimerConcentrate() {
-    timerConcentrate = window.setTimeout(timer,2000)
+    timerConcentrate = window.setTimeout(timer,1000)
 }
 
 
