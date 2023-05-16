@@ -1,15 +1,83 @@
-#Fun {
-    color: red;
-    width: 200px;
+h1{
 
+        font-family: Garamond, serif;
+        font-size: 20px;
+        font-weight: bold;
+        color: #333;
+        text-transform: uppercase;
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 20px;
+        text-shadow: 1px 1px #ccc;
+      
 }
 
-#Chill {
-    color: rgb(203, 171, 26);
-    width: 200px;
+h2{
+
+    font-family: Garamond, serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px #ccc;
+  
 }
 
-#Concentration {
-    color: rgb(64, 48, 118);
-    width: 200px;
-}
+#book1 {
+    display: flex;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    background-color: #fdfdfde6;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    font-family: Garamond, serif;
+    color: #6d5c5c;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+    #book2 {
+    display: flex;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    background-color: #fdfdfde6;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    font-family: Garamond, serif;
+    color: #6d5c5c;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }  
+  #book3 {
+    display: flex;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    background-color: #fdfdfde6;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    font-family: Garamond, serif;
+    color: #6d5c5c;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;}
+    
+    div img {
+    width: 110px;
+    height: 110px;
+    margin-right: 10px;
+    z-index: 1;
+
+  }
+  
+ 
